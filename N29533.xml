@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="poem">
-            <pb facs="tcp:039335_0000_10141DBBC18459F8"/>
-            <pb facs="tcp:039335_0001_10141DC02C133018"/>
+            <pb facs="unknown:039335_0000_10141DBBC18459F8"/>
+            <pb facs="unknown:039335_0001_10141DC02C133018"/>
             <gap reason="missing" extent="1+ pages">
                <desc>〈1… pages missing〉</desc>
             </gap>
@@ -205,7 +205,7 @@
                </gap>m that made Heav'n Earth and Sea;</l>
          </div>
          <div type="catechism">
-            <pb n="1" facs="tcp:039335_0002_10141DC368CFD870"/>
+            <pb n="1" facs="unknown:039335_0002_10141DC368CFD870"/>
             <head>The Sincere MILK of the Word, FOR THE Children Of Barmuda. IN A Short and Plain CATECHISM.</head>
             <byline>By Mr. <hi>Sampſon Bond,</hi> late Miniſter on that Iſland.</byline>
             <epigraph>
@@ -227,7 +227,7 @@
                   </gap> Being?</hi>
             </p>
             <p>
-               <pb n="2" facs="tcp:039335_0003_10141DC6174D6C70"/>
+               <pb n="2" facs="unknown:039335_0003_10141DC6174D6C70"/>
                <note place="margin">Iſa. 6.3. Rom. 16.27. Pſal. 145.3 Math. 19 17. Deut 6 4 1 Cor. 8 4 6. Mat. 28.19 1 John 5.7. Gen. 1.1 Coloſ. 1.16 John 1.3. Pſal 36.6 Mat. 10 29.30 Acts 17.25, 28. Pſal. 4.6 Pſal. 73.25. John 17.21, 22. Gen 2.7 Gen 1<gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -288,7 +288,7 @@
             </p>
             <p>
                <hi>A</hi> No, he fell from that Eſtate by
-<pb n="3" facs="tcp:039335_0004_10141DC79F1A2498"/>
+<pb n="3" facs="unknown:039335_0004_10141DC79F1A2498"/>
 tranſgreſſing Gods Law.<note place="margin">Eccleſ 7 29 Gen. 3.6.</note>
             </p>
             <p>Q <hi>How did Adam tranſgreſs Gods Law?</hi>
@@ -325,7 +325,7 @@ tranſgreſſing Gods Law.<note place="margin">Eccleſ 7 29 Gen. 3.6.</note>
             <p>
                <hi>A</hi> By taking on him man's nature,<note place="margin">Heb. 2 16 Gal. 3.13</note> and being made a curſe for us, that he might redeem us from the curſe of the Law.</p>
             <p>
-               <pb n="4" facs="tcp:039335_0005_10141DC9568507A8"/>Q <hi>How was Chriſt made a curſe for us?</hi>
+               <pb n="4" facs="unknown:039335_0005_10141DC9568507A8"/>Q <hi>How was Chriſt made a curſe for us?</hi>
             </p>
             <p>
                <note place="margin">Math. 27 35, 36 Iſa 53.10 Math. 26 38 Heb. 2 17 Acts 3.22 Pſal. 110.<gap reason="illegible: indecipherable" extent="1 letter">
@@ -365,7 +365,7 @@ tranſgreſſing Gods Law.<note place="margin">Eccleſ 7 29 Gen. 3.6.</note>
                <note place="margin">Eph 1.19</note>
                <hi>A.</hi> No; FAITH is the Gift of God.</p>
             <p>
-               <pb n="5" facs="tcp:039335_0006_10141DCC359792F0"/>Q. <hi>How is Faith obtained?</hi>
+               <pb n="5" facs="unknown:039335_0006_10141DCC359792F0"/>Q. <hi>How is Faith obtained?</hi>
             </p>
             <p>
                <hi>A.</hi> Faith comes by hearing the Word of God.<note place="margin">Rom. 10 17</note>
@@ -402,7 +402,7 @@ tranſgreſſing Gods Law.<note place="margin">Eccleſ 7 29 Gen. 3.6.</note>
             <p>Q. <hi>Where are thoſe Commandments laid down?</hi>
             </p>
             <p>
-               <pb n="6" facs="tcp:039335_0007_10141DD04DF75CF8"/>
+               <pb n="6" facs="unknown:039335_0007_10141DD04DF75CF8"/>
                <note place="margin">Exod. <gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
                   </gap>0</note>
@@ -466,7 +466,7 @@ tranſgreſſing Gods Law.<note place="margin">Eccleſ 7 29 Gen. 3.6.</note>
             <p>Q. <hi>What are the Sacraments?</hi>
             </p>
             <p>
-               <pb n="7" facs="tcp:039335_0008_10141DD1D4C50FF8"/>
+               <pb n="7" facs="unknown:039335_0008_10141DD1D4C50FF8"/>
                <hi>A.</hi> They are outward Signs, where<g ref="char:EOLhyphen"/>
                <gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
@@ -524,7 +524,7 @@ tranſgreſſing Gods Law.<note place="margin">Eccleſ 7 29 Gen. 3.6.</note>
             </p>
             <p>
                <hi>A.</hi> The Lord's Prayer Contained
-<pb n="8" facs="tcp:039335_0009_10141DD691078328"/>
+<pb n="8" facs="unknown:039335_0009_10141DD691078328"/>
 in the VIth of <hi>Matthew,</hi> 
                <gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
